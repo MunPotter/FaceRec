@@ -110,10 +110,10 @@ def recognizeImg(IMG_PATH):
 ## API Test Result
 
 <p align="center">
-  <a  target="blank"><img src="https://github.com/MunPotter/FaceRec/blob/main/mun-00_19_55.jpg" width="320" alt="img" /></a>
+  <a  target="blank"><img src="https://github.com/MunPotter/FaceRec/blob/main/Unknown-15_28_11.jpg" /></a>
 </p>
 <p align="center">
-  <a  target="blank"><img src="https://github.com/MunPotter/FaceRec/blob/main/Unknown-15_28_11.jpg" /></a>
+  <a  target="blank"><img src="https://github.com/MunPotter/FaceRec/blob/main/mun-00_19_55.jpg" width="320" alt="img" /></a>
 </p>
 
 <p align="center">
